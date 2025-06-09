@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.0",
   "min_supported_version": "1.0.0",
-  "apk_url": "https://yourdomain.com/downloads/app-release.apk",
+  "apk_url": "https://github.com/cblogin/moviez/raw/main/app-release.apk",
   "release_notes": "• Faster page load\n• Improved performance\n• Bug fixes",
   "apk_sha256": "f0e1c2d3b4a59687e6d83aa95e4890f9b274f12263cbf4a9fc52a1f31e45689e"
 }
