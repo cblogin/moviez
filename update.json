@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0",
+  "latestVersion": "2.0",
   "minSupportedVersion": "1.0",
   "apkURL": "https://github.com/cblogin/moviez/raw/main/app-release.apk",
   "releaseNotes": "• Faster page load\n• Improved performance\n• Bug fixes",
-  "apkSHA256": "e1b774e1490e7e28f41969770374d19685b9d7f35637bfcf9b1a5acd0aa1dd9d"
+  "apkSHA256": "9b624f22ff8adf3fa204be945cb28511d7ea048f94bbd9a37916739ac3c3a3bb"
 }
