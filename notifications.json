@@ -1,5 +1,28 @@
 [
   {
+    "id": "a0a0a6",
+    "category": "all",
+    "title": "Another Test Notification",
+    "message": "This is to check if all category notifications work.",
+    "url": "https://www.google.com/",
+    "publishedAt": "2025-09-03T06:50:19Z"
+  },
+  {
+    "id": "a0a0a5",
+    "category": "english",
+    "title": "Superman",
+    "message": "Superman Hq HD-Rip is now available for download.",
+    "publishedAt": "2025-09-03T06:50:19Z"
+  },
+  {
+    "id": "a0a0a4",
+    "category": "kannada",
+    "title": "Kannada Test DVD Scr",
+    "message": "Kantara 2 is now available for download.",
+    "url": "https://www.google.com/",
+    "publishedAt": "2025-09-03T06:50:19Z"
+  },
+  {
     "id": "a0a0a3",
     "category": "english",
     "title": "Nobody 2 Hq HD-Rip",
