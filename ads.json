@@ -1,4 +1,8 @@
 {
+  "config": {
+    "min": 15,
+    "range": 5
+  },
   "smart_links": [
     "https://smrturl.co/903ac93",
     "https://smrturl.co/d515ad3",
