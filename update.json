@@ -3,5 +3,5 @@
   "minSupportedVersion": "1.0",
   "apkURL": "https://github.com/cblogin/moviez/raw/main/app-release.apk",
   "releaseNotes": "• Replaced Seedr with Torrent client\n• Improved ad-blocker\n• Website unblocker\n• Notifications",
-  "apkSHA256": "63756b85678c2e2687d24a4f638f4f2dd72ddd2f97a042a4f8fa0314e15168af"
+  "apkSHA256": "29d95e0123ca2679bd7c4d4178ccda4b50a1fef14396d4622a143c460be54044"
 }
