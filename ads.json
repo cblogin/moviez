@@ -1,6 +1,6 @@
 {
   "config": {
-    "min": 5000,
+    "min": 15000,
     "range": 5
   },
   "smart_links": [
