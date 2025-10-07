@@ -1,7 +1,7 @@
 {
-  "latestVersion": "2.0",
+  "latestVersion": "2.1",
   "minSupportedVersion": "1.0",
   "apkURL": "https://github.com/cblogin/moviez/raw/main/app-release.apk",
-  "releaseNotes": "• Replaced Seedr with Torrent client\n• Improved ad-blocker\n• Website unblocker\n• Notifications",
-  "apkSHA256": "29d95e0123ca2679bd7c4d4178ccda4b50a1fef14396d4622a143c460be54044"
+  "releaseNotes": "• Removed background processes for battery efficiency\n• Fixed empty notification bug\n• Removed unnecessary network calls",
+  "apkSHA256": "59befdb366fc7d4de21537962b2db81e340e3ac16312a997b127cd7fedf08d29"
 }
