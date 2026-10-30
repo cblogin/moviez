@@ -1,26 +1,14 @@
 [
   {
+    "title": "Apex Browser",
+    "url": "market://details?id=com.apexbrowser.app"
+  },
+  {
     "title": "Movierulz",
     "url": "https://www.5movierulz.green/"
   },
   {
     "title": "TamilMV",
     "url": "https://www.1tamilmv.style/"
-  },
-  {
-    "title": "Piratebay",
-    "url": "https://thepiratebay.org/index.html"
-  },
-  {
-    "title": "Lime Torrents",
-    "url": "https://www.limetorrents.to/"
-  },
-  {
-    "title": "uIndex",
-    "url": "https://uindex.org/"
-  },
-  {
-    "title": "1337x",
-    "url": "https://1337x.to/home/"
   }
 ]
